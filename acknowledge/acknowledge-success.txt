@@ -1,7 +1,5 @@
-amilianarp,HOME_OK
-anindhitadwi,HOME_OK
-ashaliha,HOME_OK
-ibaadee,HOME_OK
-intamdhp,HOME_OK
-joshiarheinier,HOME_OK
-kampretbalado,HOME_OK
+ahmad45,HOME_OK,GITHUB_OK,GITHUB_FOLDER_OK
+anindhitadwi,HOME_OK,GITHUB_OK,GITHUB_FOLDER_OK
+ibaadee,HOME_OK,GITHUB_OK,GITHUB_FOLDER_OK
+joshiarheinier,HOME_OK,GITHUB_OK,GITHUB_FOLDER_OK
+tengkuhuday,HOME_OK,GITHUB_OK,GITHUB_FOLDER_OK
