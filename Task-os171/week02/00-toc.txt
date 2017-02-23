@@ -34,7 +34,7 @@ Wed Sep 14 08:56:10 WIB 2016
 % cat 04-list-keys2.txt
 
 # Export Your Key
-% gpg --export --armor > 05-mypublickey1.txt
+% gpg --export --armor > mypublickey1.txt
 
 # SHA1SUM files inside work02
 % sha1sum 0*.txt > SHA1SUM
@@ -56,9 +56,9 @@ Wed Sep 14 08:56:10 WIB 2016
 # Encrypt
 % gpg --output work02.tbj.gpg --encrypt --recipient OSTEAM work02.tbj
 
-# Submit (copy) work02.tbj.gpg to os162/week02/
-# Submit (copy) 05-mypublickey1.txt to os162/week00/
+# Submit (copy) work02.tbj.gpg to os171/week02/
+# Submit (copy) mypublickey1.txt to os171/week00/
 # PUSH to github
 # Keep work02.tbj in work
 # PS: Whenever using a new key set, submit the public key with a new name
-# to os162/week00/.  Eg: 05-mypublickey2.txt, etc.
+# to os171/week00/.  Eg: mypublickey2.txt, etc.
